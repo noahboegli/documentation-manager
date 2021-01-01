@@ -15,3 +15,8 @@ The goals of `documentation-manager` are
 
 
 `documentation-manager` is a project for a "one commit a day" challenge.
+
+## Languages & frameworks
+- PHP (back-end)
+    - Slim Framework with respective PSR implementations
+    

@@ -19,4 +19,5 @@ The goals of `documentation-manager` are
 ## Languages & frameworks
 - PHP (back-end)
     - Slim Framework with respective PSR implementations
+- VueJS (front-end) 
     

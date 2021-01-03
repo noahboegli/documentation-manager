@@ -14,10 +14,15 @@ The goals of `documentation-manager` are
     - The interface between the server and the application can be a document
 
 
-`documentation-manager` is a project for a "one commit a day" challenge.
+> `documentation-manager` is a project for a "one commit a day" challenge.
 
 ## Languages & frameworks
-- PHP (back-end)
-    - Slim Framework with respective PSR implementations
-- VueJS (front-end) 
-    
+### Back-end
+- PHP
+    - Slim
+### Front-end
+- VueJS
+    - VueX
+    - VueRouter
+- SaSS
+    - Bootstrap

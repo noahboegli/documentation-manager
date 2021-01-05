@@ -17,7 +17,8 @@ The goals of `documentation-manager` are
 > `documentation-manager` is a project for a "one commit a day" challenge.
 
 ## Architecture
-The back-end will consist of an API, that will then be called through a separate application that will act as front-end.
+The back-end will consist of an API, that will then be called through a separate application that will act as front-end.  
+TypeScript will **not** be used.
 
 ## Languages & frameworks
 ### Back-end

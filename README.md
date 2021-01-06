@@ -22,7 +22,7 @@ TypeScript will **not** be used.
 
 ## Languages & frameworks
 ### Back-end
-- PHP
+- PHP 8+
     - Slim
 ### Front-end
 - VueJS

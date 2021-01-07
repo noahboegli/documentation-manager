@@ -20,6 +20,7 @@ The goals of `documentation-manager` are
 The back-end will consist of an API, that will then be called through a separate application that will act as front-end.  
 TypeScript will **not** be used.
 
+
 ## Languages & frameworks
 ### Back-end
 - PHP 8+
